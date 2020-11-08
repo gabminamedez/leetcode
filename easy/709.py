@@ -1,0 +1,5 @@
+# [709] To Lower Case
+
+class Solution:
+    def toLowerCase(self, str: str) -> str:
+        return str.lower()
